@@ -406,7 +406,6 @@ public class App extends Application {
         root.setHgap(10);
         root.setVgap(10);
         root.setPadding(new Insets(10));
-        // root.setGridLinesVisible(true); // test
 
         ColumnConstraints column1 = new ColumnConstraints(fontSize == 12? 120: 250);
         root.getColumnConstraints().add(column1);
