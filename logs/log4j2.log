@@ -1,0 +1,9 @@
+2024-06-18 14:22:50,614 INFO o.e.App [JavaFX Application Thread] Database db.bin was successfully read
+2024-06-18 14:22:50,962 INFO o.e.App [JavaFX Application Thread] Phone book main window opened
+2024-06-18 14:23:04,669 INFO o.e.App [JavaFX Application Thread] Database db.bin was successfully read
+2024-06-18 14:23:05,015 INFO o.e.App [JavaFX Application Thread] Phone book main window opened
+2024-06-18 14:23:13,269 INFO o.e.App [JavaFX Application Thread] Add contact window opened
+2024-06-18 14:23:19,483 WARN o.e.App [JavaFX Application Thread] Invalid character input in numbers in add contact window
+2024-06-18 14:23:22,626 INFO o.e.App [JavaFX Application Thread] A new contact was added
+2024-06-18 14:23:33,151 INFO o.e.App [JavaFX Application Thread] Database db.bin was successfully read
+2024-06-18 14:23:33,508 INFO o.e.App [JavaFX Application Thread] Phone book main window opened
